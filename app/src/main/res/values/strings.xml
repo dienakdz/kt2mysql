@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kt2mysql</string>
+    <string name="editname">Edit Name</string>
+    <string name="edituser">Edit User</string>
+    <string name="editpass">Edit pass</string>
+</resources>
